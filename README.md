@@ -9,3 +9,12 @@ It is important that the models give us a confidence probability of the winners 
 ### Data Sources
 * Elo Data - https://github.com/fivethirtyeight/data/tree/master/nfl-elo
 * NFL historic game and betting info - https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data/home
+
+--- 
+## Resources/Acknowledgements
+
+* NFL Scores and Betting data: https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data/home
+* NFL Elo data: https://github.com/fivethirtyeight/data/tree/master/nfl-elo
+* NFL Betting codes: https://www.kaggle.com/twalters20/nfl-betting-model
+* Using Machine Learning for Predicting NFL Games: https://www.youtube.com/watch?v=8emUyzczThY&t=896s
+* Predicting Point Spread in NFL Games: http://cs229.stanford.edu/proj2016/report/WadsworthVera-PredictingPointSpreadinNFLGames-report.pdf
