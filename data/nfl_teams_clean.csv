@@ -1,0 +1,33 @@
+team_name,team_name_short,team_id,team_id_pfr,team_conference,team_division
+Arizona Cardinals,Cardinals,ARI,CRD,NFC,NFC West
+Atlanta Falcons,Falcons,ATL,ATL,NFC,NFC South
+Baltimore Ravens,Ravens,BAL,RAV,AFC,AFC North
+Buffalo Bills,Bills,BUF,BUF,AFC,AFC East
+Carolina Panthers,Panthers,CAR,CAR,NFC,NFC South
+Chicago Bears,Bears,CHI,CHI,NFC,NFC North
+Cincinnati Bengals,Bengals,CIN,CIN,AFC,AFC North
+Cleveland Browns,Browns,CLE,CLE,AFC,AFC North
+Dallas Cowboys,Cowboys,DAL,DAL,NFC,NFC East
+Denver Broncos,Broncos,DEN,DEN,AFC,AFC West
+Detroit Lions,Lions,DET,DET,NFC,NFC North
+Green Bay Packers,Packers,GB,GNB,NFC,NFC North
+Houston Texans,Texans,HOU,HTX,AFC,AFC South
+Indianapolis Colts,Colts,IND,CLT,AFC,AFC South
+Jacksonville Jaguars,Jaguars,JAX,JAX,AFC,AFC South
+Kansas City Chiefs,Chiefs,KC,KAN,AFC,AFC West
+Los Angeles Chargers,Chargers,LAC,SDG,AFC,AFC West
+Los Angeles Rams,Rams,LAR,RAM,NFC,NFC West
+Miami Dolphins,Dolphins,MIA,MIA,AFC,AFC East
+Minnesota Vikings,Vikings,MIN,MIN,NFC,NFC North
+New England Patriots,Patriots,NE,NWE,AFC,AFC East
+New Orleans Saints,Saints,NO,NOR,NFC,NFC South
+New York Giants,Giants,NYG,NYG,NFC,NFC East
+New York Jets,Jets,NYJ,NYJ,NFC,AFC East
+Oakland Raiders,Raiders,OAK,RAI,AFC,AFC West
+Philadelphia Eagles,Eagles,PHI,PHI,NFC,NFC East
+Pittsburgh Steelers,Steelers,PIT,PIT,AFC,AFC North
+Seattle Seahawks,Seahawks,SEA,SEA,NFC,NFC West
+San Francisco 49ers,49ers,SF,SFO,NFC,NFC West
+Tampa Bay Buccaneers,Buccaneers,TB,TAM,NFC,NFC South
+Tennessee Titans,Titans,TEN,OTI,AFC,AFC South
+Washington Redskins,Redskins,WAS,WAS,NFC,NFC East
